@@ -8,6 +8,8 @@ I created this website because I wanted a personal online presence but wasn’t 
 
 ## Preview
 
+<img src="images4readme/preview.gif" alt="Preview" width="500"/>
+
 ## Keyboard Controls
 
 <kbd>Q</kbd> - Rotates the card clockwise.
