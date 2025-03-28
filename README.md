@@ -2,11 +2,13 @@
 
 I created this website because I wanted a personal online presence but wasn’t sure what to build. For a while, I had an idea of incorporating an interactive 3D object into my site. Recently, after getting a job at Toss, where business cards are a common part of professional interactions, I found inspiration to design a unique digital version. I designed the business card myself using Figma and brought it to life using Three.js to create an engaging 3D experience.
 
-## Features
+**Design inspired by: ethos5088@naver.com**
 
-3D Interactive Business Card: A rotating, draggable business card with front and back images.
+<img src="/images4readme/original.jpg" alt="Inspo" width="500"/>
 
-Keyboard Controls:
+## Preview
+
+## Keyboard Controls
 
 <kbd>Q</kbd> - Rotates the card clockwise.
 
