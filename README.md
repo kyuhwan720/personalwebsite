@@ -1,4 +1,4 @@
-# This website is available at 
+# This website is available at http://kyuhwandotcom.s3-website.ap-northeast-2.amazonaws.com/
 
 ## Introduction
 
@@ -35,8 +35,8 @@ I created this website because I wanted a personal online presence but wasn’t 
   - Three.js - For rendering the 3D card and animations.
   - HTML, CSS, JavaScript - For structuring and styling the webpage.
   - Figma - For designing the business card.
-  - AWS S3 - For storing and hosting the website.
-  - AWS CloudFront - For custom domain.
+  - AWS S3 - For storing files and hosting the website.
+  - GitHub Actions - For CI/CD pipeline.
 
 ## Contact
 
